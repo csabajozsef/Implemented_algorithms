@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import sorting_algorithms as sa
 
 one = sa.generate_sorted_list(1)
