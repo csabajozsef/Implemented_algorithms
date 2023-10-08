@@ -1,6 +1,5 @@
-#!/usr/bin/python3
-
-import sorting_algorithms as sa
+#! /home/csabaj/git_school/implemented_algorithms/venv/bin/python
+import algorithms.sorting_algorithms as sa
 
 one = sa.generate_sorted_list(1)
 two = sa.generate_sorted_list(1)
